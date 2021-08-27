@@ -193,17 +193,13 @@ module.exports = {
           content: "复制成功!"
       }
     }],
-    ['@vssue/vuepress-plugin-vssue', {
-      // 设置 `platform` 而不是 `api`
-      platform: 'github',
-
-      // 其他的 Vssue 配置
-      owner: 'jynba',
-      repo: 'jynba.github.io',
-      clientId: '6145a8d7a428194ffb4f',
-      clientSecret: '27b7fdfd33b0b8e7a4139f4ebbc7ab0dfc3258fd',
-      autoCreateIssue: true
-    }]
+    ['@vuepress-reco/comments', {
+      solution: 'valine',
+      options: {
+        appId: 'JXLYsTtO12z6Xxy02WBKJuqv-gzGzoHsz',// your appId
+        appKey: 'QeS9tNBXO2nlqgRqXgs2KsMm', // your appKey
+      }
+    }],
   ],
   "markdown": {
     "lineNumbers": true

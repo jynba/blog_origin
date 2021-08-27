@@ -16,10 +16,8 @@
   "license": "MIT",
   "description": "涅槃，浴火",
   "dependencies": {
-    "@vssue/api-github-v3": "^1.4.7",
-    "@vssue/api-github-v4": "^1.4.7",
-    "@vssue/vuepress-plugin-vssue": "^1.4.8",
     "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.5.7",
+    "@vuepress-reco/vuepress-plugin-comments": "^1.6.0",
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "npm": "^7.20.6",
     "vue-canvas-effect": "0.0.12",
