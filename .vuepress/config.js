@@ -36,8 +36,20 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "copy大佬的文档",
+            "text": "live2d的心酸泪",
             "link": "/docs/theme-reco/"
+          },
+          {
+            "text": "记录点滴",
+            "link": "/docs/theme-reco/record.md"
+          },
+          {
+            "text": "吐槽",
+            "link": "/docs/theme-reco/saysomething.md"
+          },
+          {
+            "text": "成长史",
+            "link": "/docs/theme-reco/live.md"
           }
         ]
       },
