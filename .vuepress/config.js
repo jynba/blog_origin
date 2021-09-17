@@ -80,7 +80,7 @@ module.exports = {
     "type": "blog",
     "blogConfig": {
       "category": {
-        "location": 2,
+        "location": 3,
         "text": "心得"
       },
       "tag": {
