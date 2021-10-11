@@ -109,7 +109,8 @@ module.exports = {
     "author": "jy",
     "authorAvatar": "/portrait.png",
     "record": "↑",
-    "startYear": "2021"
+    "startYear": "2021",
+    subSidebar:'auto'
   },
   plugins: [
     [

@@ -1,6 +1,6 @@
 ---
 title: 微信小程序-莞工地图
-date: 2021-9-15
+date: 2021-9-19
 tags:
  - miniprogram
  - made_by_jy
@@ -8,6 +8,7 @@ categories:
  - miniprogram
 ---
 # 				自定义地图
+<img src="../../.vuepress/public/jy.jpg"/>
 
 ## 一、展示
 
@@ -28,7 +29,7 @@ categories:
 ## 三、展望
 
 后续将会更新**私人定制maker** (设置自己当前所处坐标和图片自定义maker) 
-运用云开发储存数据和图片 
+运用**云开发**储存数据和图片 
 
 <img src="../../.vuepress/public/map6.png" style="zoom:33%;" />
 <img src="../../.vuepress/public/map5.png" style="zoom:33%;" />
