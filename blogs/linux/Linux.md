@@ -367,9 +367,9 @@ multi-user.target
 
   * date和cal类
 
-    <img src="C:\Users\12390\AppData\Roaming\Typora\typora-user-images\image-20211004162345439.png" alt="image-20211004162345439" style="zoom:50%;" />
+  ![图片](../../.vuepress/public/date1.png)
 
-    <img src="C:\Users\12390\AppData\Roaming\Typora\typora-user-images\image-20211004162422816.png" alt="image-20211004162422816" style="zoom:50%;" />
+  ![图片](../../.vuepress/public/date.png)
 
     
 
@@ -585,7 +585,7 @@ multi-user.target
   
     
   
-    ![image-20211008173548436](C:\Users\12390\AppData\Roaming\Typora\typora-user-images\image-20211008173548436.png)
+    ![图片](../../.vuepress/public/mail.png)
 
 ### at定时任务（一次性）
 
@@ -1069,7 +1069,7 @@ jdk8
 
 * 运行java和gcc
 
-![image-20211008172721458](C:\Users\12390\AppData\Roaming\Typora\typora-user-images\image-20211008172721458.png)
+![图片](../../.vuepress/public/hello.png)
 
 
 
