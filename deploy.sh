@@ -14,7 +14,7 @@ cd public
 
 git init
 git add .
-git commit -m '新版'
+git commit -m 'new release'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
 git push -f git@github.com:jynba/jynba.github.io.git master
