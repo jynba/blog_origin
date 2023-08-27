@@ -1,5 +1,5 @@
 ---
-title: HTTP协议的发展
+title: CSS优先级
 date: 2023-8-24
 tags:
   - CSS
@@ -30,8 +30,8 @@ CSS 优先级计算规则如下：
 举个例子：
 
 ```css
-div p.my-class#my-id[type='text']:hover::before {
-	color: red !important;
+div p.my-class#my-id[type="text"]:hover::before {
+  color: red !important;
 }
 ```
 
@@ -55,11 +55,11 @@ div p.my-class#my-id[type='text']:hover::before {
 
 ```css
 a {
-	color: black;
+  color: black;
 }
 
 a.highlight {
-	color: blue;
+  color: blue;
 }
 ```
 
