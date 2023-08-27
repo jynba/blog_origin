@@ -14,7 +14,7 @@ cd public
 
 git init
 git add .
-git commit -m 'new release'
+git commit -m 'http'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
 git push -f git@github.com:jynba/jynba.github.io.git master
